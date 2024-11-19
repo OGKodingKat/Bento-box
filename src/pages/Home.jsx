@@ -49,6 +49,5 @@ export default function Home() {
                 <img className="AI" src={aiPic} alt="" />
             </div>
         </div>
-    )
-        ;
+    );
 }
