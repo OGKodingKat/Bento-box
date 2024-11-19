@@ -14,7 +14,7 @@ export default function Home() {
             <div className="fiveStar one card" >
                 <h1>Social Media <span>10x</span> Faster with Al</h1>
                 <img src={stars} alt="Five golden stars" />
-                <p>Over 4,000 5-star reviews</p>
+                <p>Over 4,000 5-star reviews.</p>
             </div>
             <div className="following two card">
                 <img className="follows" src={follow} alt="following stats" />
